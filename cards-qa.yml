@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank cards related local APIs"
   contactDetails:
     name: "Smitha Ray - QA Lead"
-    email: "smitha@gmail.com"
+    email: "{cipher}8745abb35778b03df267f673405a682a5f11e99efdb048dc389fe502153c1b7a7ecc843df364f43b3b35bb243bbce24f"
   onCallSupport:
     - +55 (21) 99325-1234
     - +55 (21) 92432-1564
