@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}77b420f2e7d3f748b70fb2460b1dd3268e816cbfd277d42a4981e4ff19f971a70351694cd3565e5bb937840ee56315ef"
