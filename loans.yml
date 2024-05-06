@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs"
+  message: "Welcome to EazyBank loans related docker APIs"
   contactDetails:
     name: "Carlos Henrique - Developer"
     email: "{cipher}bd998fd9869004ff6e84585f76b8b364e0de014065e2578356665d3f2d3578714ba95b985c00942a378b9496ad3fc3e5"
