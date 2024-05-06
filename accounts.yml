@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs"
+  message: "Welcome to EazyBank accounts related docke APIs"
   contactDetails:
     name: "Carlos Henrique - Developer"
     email: "{cipher}88938877d28f1494ff3556d01f937c4057e44aef55b5453093ac49a2c5cc532448713d0643f4de3a98f98a59e9c881a3"
