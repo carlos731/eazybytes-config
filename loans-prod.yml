@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related production APIs "
+  message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}6d2c6d7de8fdf8b51eb6241098667ebac6bfa1992914cc7e0f02b2c53a7133eab500f5ce7ce9e6dfc74eedc244b3598"
