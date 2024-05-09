@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "{cipher}77b420f2e7d3f748b70fb2460b1dd3268e816cbfd277d42a4981e4ff19f971a70351694cd3565e5bb937840ee56315ef"
   onCallSupport:
     - +55 (21) 99665-1234
     - +55 (21) 92552-1564

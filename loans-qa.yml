@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank loans related local APIs"
   contactDetails:
     name: "Smitha Ray - QA Lead"
-    email: "smitha@gmail.com"
+    email: "{cipher}238632a14697a9cbbe4a8bdf2e67d37c2fa528e7735f0ad5e1135fe9c222ee9e345f553fbc66638253db375bbca9dee4"
   onCallSupport:
     - +55 (21) 99325-1234
     - +55 (21) 92432-1564
